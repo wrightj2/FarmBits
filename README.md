@@ -12,4 +12,4 @@ To
 
 Themes > Installed Themes > Page Editor > Views > Partials > product_form.twig
 
-You need to remove the <!-- on line 467 and the --> on line 481 and then save changes (commenting out the buy now button)
+You need to remove the '<!-- on line 467 and the -->' on line 481 and then save changes (commenting out the buy now button)
