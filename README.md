@@ -1,6 +1,6 @@
 # FarmBits
 
-Remove/change Powered by Shopwired from footer
+**Remove/change Powered by Shopwired from footer**
 
 Change the following in views/partials footer.twig
 
