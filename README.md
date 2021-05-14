@@ -18,6 +18,8 @@ You need to remove the ```<!-- on line 467 and the -->``` on line 481 and then s
 
 Add the following at bottom of _components.scss in stylesheets
 
-```.side-menu {
+```
+.side-menu {
 	display: none;
-}```
+}
+```
